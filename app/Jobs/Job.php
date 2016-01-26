@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Jobs;
+namespace MediaBox\Jobs;
 
 use Illuminate\Bus\Queueable;
 
